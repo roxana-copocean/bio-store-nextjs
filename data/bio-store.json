@@ -1,0 +1,26 @@
+[
+	{
+		"id": 0,
+		"name": "StrangeLove BioStore",
+		"imgUrl": "/static/2 (1).jpg",
+		"websiteUrl": "https://www.pukkafood.ro/",
+		"address": "983 Queen St E, Toronto, ON M4M 1K2",
+		"neighbourhood": "at King and Spadina"
+	},
+	{
+		"id": 1,
+		"name": "Dark Horse Bio",
+		"imgUrl": "/static/2 (2).jpg",
+		"websiteUrl": "https://www.bioshopromania.com/",
+		"address": "401 Richmond St W",
+		"neighbourhood": "Richmond and Spadina"
+	},
+	{
+		"id": 2,
+		"name": "Soul Food",
+		"imgUrl": "/static/3.jpg",
+		"websiteUrl": "https://www.biocorner.ro/",
+		"address": "401 Richmond St W",
+		"neighbourhood": "Route 300 Neighbourhood"
+	}
+]
